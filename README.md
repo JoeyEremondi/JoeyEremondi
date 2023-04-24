@@ -1,4 +1,6 @@
-I'm Joseph (Joey) Eremondi, a PhD candidate working with
+I'm Joseph (Joey) Eremondi, post-doctoral researcher working with [Ohad Kammar](https://www.inf.ed.ac.uk/people/staff/Ohad_Kammar.html) at the University of Edinburgh.
+
+Previously, I was a PhD candidate working with
 [Ron Garcia](https://www.cs.ubc.ca/~rxg/) at the
 [UBC Software Practices Laboratory](https://spl.cs.ubc.ca/).
 
