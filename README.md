@@ -12,4 +12,4 @@ gradual types and improving error messages for dependently-typed
 languages. I've also researched the properties of reversal-bounded
 counter automata, set constraints, and the shuffle operator on words.
 
-<a rel="me" href="https://mathstodon.xyz/@joey">Mastodon</a>
+<a rel="me" href="https://mathstodon.xyz/@joey"></a>
