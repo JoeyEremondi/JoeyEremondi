@@ -1,6 +1,8 @@
-I'm Joseph (Joey) Eremondi, post-doctoral researcher working with [Ohad Kammar](https://www.inf.ed.ac.uk/people/staff/Ohad_Kammar.html) at the University of Edinburgh.
+I'm Joseph (Joey) Eremondi, an Assistant Professor of Computer Science at the University of Regina.
 
-Previously, I was a PhD candidate working with
+Previously ,I was a post-doctoral researcher working with [Ohad Kammar](https://www.inf.ed.ac.uk/people/staff/Ohad_Kammar.html) at the University of Edinburgh.
+
+I completed my PhD with
 [Ron Garcia](https://www.cs.ubc.ca/~rxg/) at the
 [UBC Software Practices Laboratory](https://spl.cs.ubc.ca/).
 
